@@ -1,0 +1,9 @@
+video/
+music/
+compressed/
+picture/
+document/
+unsorted/
+other/
+*.pyc
+*.pyd

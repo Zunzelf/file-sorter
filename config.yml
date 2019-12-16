@@ -1,0 +1,9 @@
+folder: ['video', 'compressed', 'program', 'picture', 'other', 'document', 'unsorted', 'music']
+filetype:
+  video: ['.mp4', '.avi', '.ts']
+  document: ['.pdf', '.doc', '.xls']
+  program: ['.py', '.msi', '.exe', '.iso']
+  compressed: ['.rar', '.zip', '.7zip', '.tar', '.gz']
+  picture: ['.jpg', '.jpeg', '.png', '.bmp']
+  music: ['.mp3', '.m4a', '.wav']
+    
